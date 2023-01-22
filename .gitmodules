@@ -7,3 +7,6 @@
 [submodule "images/makeproject/html/inc/phpmailer"]
 	path = images/makeproject/html/inc/phpmailer
 	url = https://github.com/PHPMailer/PHPMailer.git
+[submodule "images/zpg"]
+	path = images/zpg
+	url = https://github.com/AlexaEgorova/boinc-project.git
